@@ -1,0 +1,37 @@
+# Node.js or frontend build tools (if used later)
+node_modules/
+npm-debug.log*
+.env
+.DS_Store
+.vscode/
+
+# Logs
+*.log
+
+# Temporary files and backups
+*.tmp
+*.swp
+*.bak
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+
+# Build artifacts (e.g., if using a static site generator)
+dist/
+build/
+
+# Raw media files
+raw_media/
+*.psd
+*.ai
+*.gif
+*.jpg
+*.jpeg
+*.bmp
+*.tiff
+
+# Large unprocessed video
+*.mov
+*.avi
+*.mkv
+*.mp4
